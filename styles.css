@@ -1,0 +1,22 @@
+h1,li {
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+li a{
+    font-size: 28px;
+    color: #5001af;
+}
+
+div {
+    text-align: center;
+}
+
+div img {
+    width: 400px;
+    height: auto;
+}

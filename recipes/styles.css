@@ -1,0 +1,30 @@
+h1,h2,h3,li {
+    font-family: "Gill Sans", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+li,p{
+    font-size: 24px;
+    color: #5001af;
+}
+
+div {
+    text-align: center;
+}
+
+div img {
+    width: 400px;
+    height: auto;
+}
